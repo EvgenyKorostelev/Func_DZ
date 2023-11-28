@@ -1,0 +1,14 @@
+C:\Users\ddc_s\OneDrive\Рабочий стол\Func_DZ\Zadacha01_\bin\Debug\net8.0\Zadacha01_.exe
+C:\Users\ddc_s\OneDrive\Рабочий стол\Func_DZ\Zadacha01_\bin\Debug\net8.0\Zadacha01_.deps.json
+C:\Users\ddc_s\OneDrive\Рабочий стол\Func_DZ\Zadacha01_\bin\Debug\net8.0\Zadacha01_.runtimeconfig.json
+C:\Users\ddc_s\OneDrive\Рабочий стол\Func_DZ\Zadacha01_\bin\Debug\net8.0\Zadacha01_.dll
+C:\Users\ddc_s\OneDrive\Рабочий стол\Func_DZ\Zadacha01_\bin\Debug\net8.0\Zadacha01_.pdb
+C:\Users\ddc_s\OneDrive\Рабочий стол\Func_DZ\Zadacha01_\obj\Debug\net8.0\Zadacha01_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddc_s\OneDrive\Рабочий стол\Func_DZ\Zadacha01_\obj\Debug\net8.0\Zadacha01_.AssemblyInfoInputs.cache
+C:\Users\ddc_s\OneDrive\Рабочий стол\Func_DZ\Zadacha01_\obj\Debug\net8.0\Zadacha01_.AssemblyInfo.cs
+C:\Users\ddc_s\OneDrive\Рабочий стол\Func_DZ\Zadacha01_\obj\Debug\net8.0\Zadacha01_.csproj.CoreCompileInputs.cache
+C:\Users\ddc_s\OneDrive\Рабочий стол\Func_DZ\Zadacha01_\obj\Debug\net8.0\Zadacha01_.dll
+C:\Users\ddc_s\OneDrive\Рабочий стол\Func_DZ\Zadacha01_\obj\Debug\net8.0\refint\Zadacha01_.dll
+C:\Users\ddc_s\OneDrive\Рабочий стол\Func_DZ\Zadacha01_\obj\Debug\net8.0\Zadacha01_.pdb
+C:\Users\ddc_s\OneDrive\Рабочий стол\Func_DZ\Zadacha01_\obj\Debug\net8.0\Zadacha01_.genruntimeconfig.cache
+C:\Users\ddc_s\OneDrive\Рабочий стол\Func_DZ\Zadacha01_\obj\Debug\net8.0\ref\Zadacha01_.dll
