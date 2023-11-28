@@ -12,3 +12,4 @@ C:\Users\ddc_s\OneDrive\Рабочий стол\Func_DZ\Zadacha01_\obj\Debug\net
 C:\Users\ddc_s\OneDrive\Рабочий стол\Func_DZ\Zadacha01_\obj\Debug\net8.0\Zadacha01_.pdb
 C:\Users\ddc_s\OneDrive\Рабочий стол\Func_DZ\Zadacha01_\obj\Debug\net8.0\Zadacha01_.genruntimeconfig.cache
 C:\Users\ddc_s\OneDrive\Рабочий стол\Func_DZ\Zadacha01_\obj\Debug\net8.0\ref\Zadacha01_.dll
+C:\Users\ddc_s\OneDrive\Рабочий стол\Func_DZ\Zadacha01_\obj\Debug\net8.0\Zadacha01_.sourcelink.json
