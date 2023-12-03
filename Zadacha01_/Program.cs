@@ -38,7 +38,7 @@ void Func(string num)
         }
         Console.WriteLine();
         Console.Write("Введите целое число: ");
-        string numS = Console.ReadLine();
+        string numS = (Console.ReadLine()!); // ! значит что пустое значение вводится не будет
         num = numS;
         
     }
@@ -46,6 +46,6 @@ void Func(string num)
 }
 
 Console.Write("Введите целое число: ");
-string numV = Console.ReadLine();
+string numV = (Console.ReadLine()!);  // ! значит что пустое значение вводится не будет
 
 Func(numV);
